@@ -9,3 +9,7 @@
 - tested all simple arithmetic operations
 - defined them in methods
 - output of results at the end
+
+06.12.2023
+- combined programm of yesterday with a user input
+- done some casting
