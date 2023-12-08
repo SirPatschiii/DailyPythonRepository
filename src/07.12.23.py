@@ -1,6 +1,3 @@
-import switch
-
-
 def add(a,b):
     return a + b
 
