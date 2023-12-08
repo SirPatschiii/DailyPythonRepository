@@ -1,5 +1,9 @@
 # Logbook of Tom
 
+08.12.2023
+- done some percent calculating
+- done some casting again
+
 07.12.2023
 - combined programm of yesterday with some if conditions
 - user can now decide what to calculate
