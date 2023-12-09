@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+09.12.2023
+- done some string manipulation
+
 08.12.2023
 - done some percent calculating
 - done some casting again
