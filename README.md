@@ -1,5 +1,9 @@
 # Logbook of Tom
 
+10.12.2023
+- catched a user input and used it to build a christmas tree
+- therefor used some for loops
+
 09.12.2023
 - done some string manipulation
 
