@@ -1,5 +1,9 @@
 # Logbook of Tom
 
+11.12.2023
+- created a program which identifies the biggest inserted number
+- therefor used simple if statements
+
 10.12.2023
 - catched a user input and used it to build a christmas tree
 - therefor used some for loops
