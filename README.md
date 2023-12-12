@@ -1,5 +1,9 @@
 # Logbook of Tom
 
+12.12.2023
+- created a program which calculates the root of a number with the "heron's method"
+- therefor formed the amount and rounded
+
 11.12.2023
 - created a program which identifies the biggest inserted number
 - therefor used simple if statements
