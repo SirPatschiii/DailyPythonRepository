@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+13.12.2023
+- created a program which calculates seconds in days, hours, minutes and seconds
+
 12.12.2023
 - created a program which calculates the root of a number with the "heron's method"
 - therefor formed the amount and rounded
