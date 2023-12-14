@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+14.12.2023
+- created a program which calculates the bmi of a person
+
 13.12.2023
 - created a program which calculates seconds in days, hours, minutes and seconds
 
