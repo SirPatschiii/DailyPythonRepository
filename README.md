@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+15.12.2023
+- created and tested a recursive function
+
 14.12.2023
 - created a program which calculates the bmi of a person
 
