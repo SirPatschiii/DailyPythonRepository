@@ -1,5 +1,9 @@
 # Logbook of Tom
 
+16.12.2023
+- created a sort algorithm -> bubble sort
+- can ascend and descend
+
 15.12.2023
 - created and tested a recursive function
 
