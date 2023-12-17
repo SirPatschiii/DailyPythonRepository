@@ -1,5 +1,9 @@
 # Logbook of Tom
 
+17.12.2023
+- created a sort algorithm -> selection sort
+- can ascend and descend
+
 16.12.2023
 - created a sort algorithm -> bubble sort
 - can ascend and descend
