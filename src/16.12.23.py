@@ -1,4 +1,4 @@
-def bubble_sort_ascending(array):
+def bubbleSortAscending(array):
     smaller = 0
     bigger = 0
     run = True
@@ -17,7 +17,7 @@ def bubble_sort_ascending(array):
     return array
 
 
-def bubble_sort_descending(array):
+def bubbleSortDescending(array):
     smaller = 0
     bigger = 0
     run = True
@@ -36,18 +36,22 @@ def bubble_sort_descending(array):
     return array
 
 
-def print_array(a):
-    for i in range(len(a)):
-        print(a[i], end=", ")
+def printArray(array):
+    for i in range(len(array)):
+        print(array[i], end=", ")
     print()
 
 
 def main():
-    arr = [4, 2, 7, 1, 9, 5]
-    bubble_sort_ascending(arr)
-    print_array(arr)
-    bubble_sort_descending(arr)
-    print_array(arr)
+    x = [4, 2, 7, 1, 9, 5]
+    print("unsorted")
+    printArray(x)
+    print("sorted ascending")
+    bubbleSortAscending(x)
+    printArray(x)
+    print("sorted descending")
+    bubbleSortDescending(x)
+    printArray(x)
 
 
 if __name__ == "__main__":
