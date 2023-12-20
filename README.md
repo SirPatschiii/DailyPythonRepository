@@ -1,5 +1,9 @@
 # Logbook of Tom
 
+20.12.2023
+- created a sort algorithm -> quick sort
+- can ascend and descend
+
 19.12.2023
 - created a sort algorithm -> merge sort
 - can ascend and descend
