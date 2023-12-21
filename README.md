@@ -1,5 +1,9 @@
 # Logbook of Tom
 
+21.12.2023
+- created a sort algorithm -> heap sort
+- can ascend and descend
+
 20.12.2023
 - created a sort algorithm -> quick sort
 - can ascend and descend
