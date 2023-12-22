@@ -1,5 +1,11 @@
 # Logbook of Tom
 
+22.12.2023
+- created a sort algorithm -> bucket sort
+- can ascend and descend
+- improved error handler slightly
+- made algorithm measurable for future ideas
+
 21.12.2023
 - created a sort algorithm -> heap sort
 - can ascend and descend
