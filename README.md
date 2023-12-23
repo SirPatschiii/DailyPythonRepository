@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+23.12.2023
+- solved the first part of AdventOfCode from 01.2016
+
 22.12.2023
 - created a sort algorithm -> bucket sort
 - can ascend and descend
