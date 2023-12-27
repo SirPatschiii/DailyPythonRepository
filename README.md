@@ -1,5 +1,11 @@
 # Logbook of Tom
 
+27.12.2023
+- created a simple timer
+
+24.12.2023 - 26.12.2023
+- Christmas break
+
 23.12.2023
 - solved the first part of AdventOfCode from 01.2016
 
