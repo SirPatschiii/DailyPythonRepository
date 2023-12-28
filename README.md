@@ -1,6 +1,9 @@
 # Logbook of Tom
 
 27.12.2023
+- created with the timer a time measurement procedure
+
+27.12.2023
 - created a simple timer
 
 24.12.2023 - 26.12.2023
