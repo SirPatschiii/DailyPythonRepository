@@ -24,8 +24,8 @@ def quick_sort_ascending(array, low, high):
 def quick_sort_descending(array, low, high):
     if low < high:
         pivot_location = partition_descending(array, low, high)
-        quick_sort_ascending(array, low, pivot_location - 1)
-        quick_sort_ascending(array, pivot_location + 1, high)
+        quick_sort_descending(array, low, pivot_location - 1)
+        quick_sort_descending(array, pivot_location + 1, high)
 
 
 def partition_ascending(array, low, high):
@@ -44,7 +44,7 @@ def partition_ascending(array, low, high):
 
 def partition_descending(array, low, high):
     pivot = array[high]
-    right_wall = high
+    right_wall = low
 
     for i in range(low, high):
         if array[i] >= pivot:
