@@ -4,7 +4,7 @@
 - created a time comparison for 7 sort algorithms
 - including deepcopy for measurable results
 - including time package for measuring time <br>
-Interested in results?  [look here]()
+Interested in results?  [look here](https://github.com/SirPatschiii/DailyPythonRepository/discussions/7)
 
 28.12.2023
 - created with the timer a time measurement procedure
