@@ -1,5 +1,11 @@
 # Logbook of Tom
 
+29.12.2023
+- created a time comparison for 7 sort algorithms
+- including deepcopy for measurable results
+- including time package for measuring time <br>
+Interested in results?  [look here]()
+
 28.12.2023
 - created with the timer a time measurement procedure
 
