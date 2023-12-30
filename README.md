@@ -1,5 +1,10 @@
 # Logbook of Tom
 
+30.12.2023
+- created a sort algorithm -> radix lsd sort
+- can ascend and descend
+- can measure time
+
 29.12.2023
 - created a time comparison for 7 sort algorithms
 - including deepcopy for measurable results
