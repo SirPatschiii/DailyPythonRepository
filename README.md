@@ -1,5 +1,13 @@
 # Logbook of Tom
 
+02.01.2024
+- created a sort algorithm -> shaker sort
+- can ascend and descend
+- can measure time
+
+31.12.2023 - 01.01.2024
+- New Year's break
+
 30.12.2023
 - created a sort algorithm -> radix lsd sort
 - can ascend and descend
