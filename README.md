@@ -1,5 +1,10 @@
 # Logbook of Tom
 
+03.01.2024
+- created a sort algorithm -> shell sort
+- can ascend and descend
+- can measure time
+
 02.01.2024
 - created a sort algorithm -> shaker sort
 - can ascend and descend
