@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+04.01.2024
+- solved the second part of AdventOfCode from 01.2016
+
 03.01.2024
 - created a sort algorithm -> shell sort
 - can ascend and descend
