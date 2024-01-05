@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+05.01.2024
+- created a simple GUI
+
 04.01.2024
 - solved the second part of AdventOfCode from 01.2016
 
