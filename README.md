@@ -1,5 +1,9 @@
 # Logbook of Tom
 
+06.01.2024
+- tested some primitive shapes on pygame GUI
+- messed around with colors
+
 05.01.2024
 - created a simple GUI
 
