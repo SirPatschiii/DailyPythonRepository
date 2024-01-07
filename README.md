@@ -1,5 +1,9 @@
 # Logbook of Tom
 
+07.01.2024
+- created an animation for bubble sort
+- therefor used pygame package and its GUI combined with some maths
+
 06.01.2024
 - tested some primitive shapes on pygame GUI
 - messed around with colors
