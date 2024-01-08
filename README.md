@@ -1,5 +1,9 @@
 # Logbook of Tom
 
+08.01.2024
+- created a rock, paper, scissors game
+- including small error handler
+
 07.01.2024
 - created an animation for bubble sort
 - therefor used pygame package and its GUI combined with some maths
