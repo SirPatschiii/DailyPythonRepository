@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+09.01.2024
+- created the truth tables for all logic gates
+
 08.01.2024
 - created a rock, paper, scissors game
 - including small error handler
