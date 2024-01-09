@@ -1,12 +1,4 @@
-.ipynb_checkpoints/
-venv
-requirements.txt
-.gitignore
-misc.xml
-modules.xml
-profiles_settings.xml
-DailyPythonRepository.iml
-vcs.xml
+.idea
 gepard2011
 clipboard.txt
 clipboard.py
