@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+10.01.2024
+- created a prime number checker
+
 09.01.2024
 - created the truth tables for all logic gates
 
