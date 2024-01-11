@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+11.01.2024
+- created an animation for selection sort
+
 10.01.2024
 - created a prime number checker
 
@@ -108,7 +111,7 @@ Interested in results?  [look here](https://github.com/SirPatschiii/DailyPythonR
 - therefor used simple if statements
 
 10.12.2023
-- catched a user input and used it to build a christmas tree
+- caught a user input and used it to build a Christmas tree
 - therefor used some for loops
 
 09.12.2023
@@ -132,6 +135,6 @@ Interested in results?  [look here](https://github.com/SirPatschiii/DailyPythonR
 - output of results at the end
 
 04.12.2023
-- informed about Git and how it works with an local IDE
+- informed about Git and how it works with an IDE which is installed local
 - implemented Git into local PyCharm IDE
 - created little hello world program
