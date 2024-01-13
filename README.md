@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+13.01.2024
+- created an animation for shaker sort
+
 12.01.2024
 - created an animation for insertion sort
 
