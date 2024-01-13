@@ -76,7 +76,7 @@ def main():
 
     pygame.init()
     window = pygame.display.set_mode((width, height))
-    pygame.display.set_caption("Visualization of Selection Sort")
+    pygame.display.set_caption("Visualization of Insertion Sort")
     window.fill(white)
     pygame.time.Clock().tick(120)
 
