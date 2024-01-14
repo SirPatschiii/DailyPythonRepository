@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+14.01.2024
+- created a fibonacci sequence calculator
+
 13.01.2024
 - created an animation for shaker sort
 
