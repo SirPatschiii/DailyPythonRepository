@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+15.01.2024
+- tested dictionaries and calculated a bit with them
+
 14.01.2024
 - created a fibonacci sequence calculator
 
