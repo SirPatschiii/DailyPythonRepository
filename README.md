@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+16.01.2024
+- created a little box, which should turn into a combobox soon
+
 15.01.2024
 - tested dictionaries and calculated a bit with them
 
