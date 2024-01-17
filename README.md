@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+17.01.2024
+- solved the first part of AdventOfCode from 02.2016
+
 16.01.2024
 - created a little box, which should turn into a combobox soon
 
