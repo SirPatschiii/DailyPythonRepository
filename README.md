@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+18.01.2024
+- created a program which calculates the power of 2 numbers
+
 17.01.2024
 - solved the first part of AdventOfCode from 02.2016
 
