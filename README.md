@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+19.01.2024
+- reprogrammed the calculater from yesterday, but this time it is recursive
+
 18.01.2024
 - created a program which calculates the power of 2 numbers
 
