@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+20.01.2024
+- created a program which calculates the faculty of a number
+
 19.01.2024
 - reprogrammed the calculater from yesterday, but this time it is recursive
 
