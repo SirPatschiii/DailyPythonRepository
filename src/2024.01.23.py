@@ -31,11 +31,14 @@ def main():
     print("This program performs sequential searches.")
     array = random_array(input("How big should your array be? "))
     v_key = int(input("What number do you search? "))
+
     v_index = search_element(array, v_key)
 
     if v_index == -1:
         print("The searched value isn't in the array.")
-    print(f"Your number {v_key} is located at the index {v_index}.")
+        sys.exit(-1)
+    else:
+        print(f"Your number {v_key} is located at the index {v_index}.")
 
 
 if __name__ == '__main__':
