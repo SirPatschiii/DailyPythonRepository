@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+23.01.2024
+- created a little program which does sequential searches in arrays
+
 22.01.2024
 - created the algorithm of euklid which determines the greatest common divisor
 
