@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+24.01.2024
+- created a program which converts radian values into degree values
+
 23.01.2024
 - created a little program which does sequential searches in arrays
 
