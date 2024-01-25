@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+25.01.2024
+- created a program which determines the exponent to a given base result pair
+
 24.01.2024
 - created a program which converts radian values into degree values
 
