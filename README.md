@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+26.01.2024
+- created a program which encodes a string into morse code
+
 25.01.2024
 - created a program which determines the exponent to a given base result pair
 
