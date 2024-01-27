@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+27.01.2024
+- created a little program which decodes a windows-1252 file into an utf-8 file
+
 26.01.2024
 - created a program which encodes a string into morse code
 
