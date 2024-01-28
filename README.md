@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+28.01.2024
+- created a function which determines the length of a line segment in a two-dimensional plane
+
 27.01.2024
 - created a little program which decodes a windows-1252 file into an utf-8 file
 
