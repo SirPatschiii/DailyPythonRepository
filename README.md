@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+29.01.2024
+- created a function which determines the perimeter of a triangle in a two-dimensional plane
+
 28.01.2024
 - created a function which determines the length of a line segment in a two-dimensional plane
 
