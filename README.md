@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+30.01.2024
+- created a program which determines the binomial coefficient of 2 numbers
+
 29.01.2024
 - created a function which determines the perimeter of a triangle in a two-dimensional plane
 
