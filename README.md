@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+31.01.2024
+- created a program which encrypts a string with the karacas encryption algorithm
+
 30.01.2024
 - created a program which determines the binomial coefficient of 2 numbers
 
