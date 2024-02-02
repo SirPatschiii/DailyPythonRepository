@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+02.02.2024
+- created a program which encrypts and decrypts a string with the substitution encryption algorithm
+
 01.02.2024
 - created a program which encrypts a string with the caesar encryption algorithm
 
