@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+04.02.2024
+- created a program which creates the [p-box](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.04.py) for blowfish cipher
+
 03.02.2024
 - created a program which encrypts and decrypts a string with the vigenère encryption algorithm
 
