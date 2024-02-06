@@ -43,7 +43,7 @@ def clear_print_queue():
     stop_spooler()
 
     '''
-    # This block may be needed if the print queue isn't clear automatically while restarting the service
+    # This block may be required if the print queue is not automatically cleared when the service is restarted
 
     try:
         logging.info("Lösche Druckerwarteschlange...")
