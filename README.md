@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+06.02.2024
+- created a small script that restarts the Windows [spooler service](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.06.py)
+
 05.02.2024
 - created a program which creates the [s-boxes](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.05.py) for blowfish cipher
 
