@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+07.02.2024
+- created a program which creates a [key](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.07.py) for blowfish cipher
+
 06.02.2024
 - created a small script that restarts the Windows [spooler service](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.06.py)
 
