@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+08.02.2024
+- rewritten the [key](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.08.py) script for blowfish cipher to get more suitable output
+
 07.02.2024
 - created a program which creates a [key](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.07.py) for blowfish cipher
 
