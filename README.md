@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+10.02.2024
+- created [decryption](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.10.py) part for blowfish cipher
+
 09.02.2024
 - created [encryption](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.09.py) part for blowfish cipher
 
