@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+11.02.2024
+- created a script which [encrypts](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.11.py) a String with AES cipher
+
 10.02.2024
 - created [decryption](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.10.py) part for blowfish cipher
 
