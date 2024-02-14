@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+14.02.2024
+- extended the script from yesterday with [decrypt](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.14.py) DES cipher
+
 13.02.2024
 - created a script which [encrypts](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.13.py) a String with DES cipher
 
