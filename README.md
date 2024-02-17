@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+18.02.2024
+- extended the script from yesterday with [decrypt](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.18.py) ARC4 cipher
+
 17.02.2024
 - created a script which [encrypts](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.17.py) a String with ARC4 cipher
 
