@@ -1,7 +1,10 @@
 # Logbook of Tom
 
+23.02.2024
+- created a script which [encrypts](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.23.py) a String with CAST cipher
+
 22.02.2024
-- extended the script from yesterday with [decrypt](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.22.py) ChaCha2ß cipher
+- extended the script from yesterday with [decrypt](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.22.py) ChaCha20 cipher
 
 21.02.2024
 - created a script which [encrypts](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.21.py) a String with ChaCha20 cipher
