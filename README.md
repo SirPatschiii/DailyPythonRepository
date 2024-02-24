@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+24.02.2024
+- extended the script from yesterday with [decrypt](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.24.py) CAST cipher
+
 23.02.2024
 - created a script which [encrypts](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.23.py) a String with CAST cipher
 
