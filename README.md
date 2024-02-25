@@ -1,5 +1,8 @@
 # Logbook of Tom
 
+25.02.2024
+- created a script which validates a message with a key using [HMAC Message Authentication](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.25.py)
+
 24.02.2024
 - extended the script from yesterday with [decrypt](https://github.com/SirPatschiii/DailyPythonRepository/blob/codespace-refactored-space-invention-977554pwqw9q395wv/src/2024.02.24.py) CAST cipher
 
